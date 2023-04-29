@@ -2,6 +2,7 @@
 Repository for Vehicle Issue Discrepancy project <br />
 <br />
 
+* Tools used: Python, Excel
 
 * Problem statement: 
 ** The Vehicle System Log, which records all errors that the vehicle encounters, has been stated to inaccurately record 'Issue 1' as 'Issue 2'. 
@@ -22,12 +23,8 @@ Analysis to highlight the scale of inaccuracy is required to justify the busines
 ** Using Python, the timestamps from the second dataset were intersected with the timestamps from the first dataset 
 This is to match the records from the Vehicle system log to the timestamps of 'Issue 1' occurrences from the Machine performance log. 
 
+** Analysis was done to see what the proportion of records in the Vehicle system log were recorded as 'Issue 2' rather than 'Issue 1'.
 
 
 
 
-By looking into the Vehicle machine log we are able to map out all the indications of 'Issue 1' and the time stamps
-** We then compare the time stamps of the 'Issue 1' indications to what is recorded in the Vehicle System log.
-***From there we can see which records in the Vehicle system log were recorded as an incorrect issue and not 'Issue 1'.
-
-*Tools used: Python, Excel
