@@ -28,6 +28,13 @@ This is to match the records from the Vehicle system log to the timestamps of 'I
 
 * Analysis and Insights
 
+**Insert picture
+
+** From the pie chart generated using Python, it can be seen that 39% of the records in the Vehicle System log were recorded as 'Issue 2' rather than 'Issue 1'. 
+** A significant portion of the records are recorded incorrectly.
+** This could pose problems in a maintenance and a business improvement point of view.
+
+
 
 
 
