@@ -36,4 +36,4 @@ Therefore, two problems are identified:
  1.  The significance of 'Issue 1' and 'Issue 2' are reduced and inflated, respectively
  2.  Unnecessary downtime caused as Maintenance would be trying to solve for 'Issue 2' when 'Issue 1' is the actual problem
 
-** If this discrepancy can be fixed, unnecessary downtime can be avoided and improvement initiatives will be more effective as accurate data will be used.
+If this discrepancy can be fixed, unnecessary downtime can be avoided and improvement initiatives will be more effective as accurate data will be used.
