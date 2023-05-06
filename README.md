@@ -11,11 +11,11 @@ Software used:
 * Excel <br/>
 
 Datasets from a sample period (1/1/2022 to 1/1/2023) were extracted for comparison. 
-* First Dataset:[VehicleIssue1_Identfied.xlsx](https://github.com/KeenanJWong/Vehicle-Discrepancy-Analysis/blob/main/VehicleIssue1_Identfied.xlsx)
+* First Dataset: [VehicleIssue1_Identfied.xlsx](https://github.com/KeenanJWong/Vehicle-Discrepancy-Analysis/blob/main/VehicleIssue1_Identfied.xlsx)
   * Data from the Machine performance log
   * This data provides timestamps where certain condition are met within the vehicle indicating 'Issue 1' occurred.
   
-* Second Dataset:[VehicleIssuesSystemLog.xlsx](https://github.com/KeenanJWong/Vehicle-Discrepancy-Analysis/blob/main/VehicleIssuesSystemLog.xlsx)
+* Second Dataset: [VehicleIssuesSystemLog.xlsx](https://github.com/KeenanJWong/Vehicle-Discrepancy-Analysis/blob/main/VehicleIssuesSystemLog.xlsx)
   - Data from the Vehicle System log
   - Data to show all the errors that have been recorded.
 
