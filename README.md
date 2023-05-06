@@ -33,7 +33,7 @@ Analysis was done to see what proportion of records in the Vehicle system log we
 From the chart generated using Python, it can be seen that 39% of 'Issue 1' occurences from the Machine performance log were recorded as 'Issue 2' in the Vehicle System log.  
 
 Therefore, two problems are identified:
-*** 1) The significance of 'Issue 1' and 'Issue 2' are reduced and inflated, respectively
-*** 2) Unnecessary downtime caused as Maintenance would be trying to solve for 'Issue 2' when 'Issue 1' is the actual problem
+ 1. The significance of 'Issue 1' and 'Issue 2' are reduced and inflated, respectively
+ 2. Unnecessary downtime caused as Maintenance would be trying to solve for 'Issue 2' when 'Issue 1' is the actual problem
 
 ** If this discrepancy can be fixed, unnecessary downtime can be avoided and improvement initiatives will be more effective as accurate data will be used.
