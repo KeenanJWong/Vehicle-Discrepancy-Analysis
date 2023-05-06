@@ -6,7 +6,7 @@ Analysis to highlight the scale of inaccuracy is required to justify the busines
 <br/>
 <br/>
 #### Methodology  ####
-Tools used:
+Software used:
 * Python
 * Excel
 
