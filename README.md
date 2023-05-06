@@ -1,6 +1,6 @@
-# Vehicle Discrepancy Analysis
+# Vehicle Discrepancy Analysis #
 
-## _Problem Statement:_ <br/>
+### _Problem Statement:_ <br/> ###
 The Vehicle System Log, which records all errors that the vehicle encounters, has been stated to inaccurately record 'Issue 1' as 'Issue 2'. <br/>
 Analysis to highlight the scale of inaccuracy is required to justify the business case in order for the IT team to allocate resources. 
 
