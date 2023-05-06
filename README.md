@@ -28,7 +28,7 @@ Analysis was done to see what proportion of records in the Vehicle system log we
 <br/>
 #### Analysis and Insights ####
 
-----ADD IMAGE HERE
+![Image](/Vehicle-Discrepancy-Analysis/assets/PieChart_ProportionOfSystemLoggedIssues.png)
 
 From the chart generated using Python, it can be seen that 39% of 'Issue 1' occurences from the Machine performance log were recorded as 'Issue 2' in the Vehicle System log.  
 
