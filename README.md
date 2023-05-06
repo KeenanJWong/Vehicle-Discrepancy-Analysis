@@ -16,8 +16,8 @@ Datasets from a sample period (1/1/2022 to 1/1/2023) were extracted for comparis
   * Data to show all the errors that have been recorded.
 
 Using Python, the timestamps from the second dataset were intersected with the timestamps from the first dataset. <br/>
-This is to match the records from the Vehicle system log to the timestamps of 'Issue 1' occurrences from the Machine performance log. <br/>
-Python Script Link: [Vehicle Discrepancy Py](https://github.com/KeenanJWong/Vehicle-Discrepancy-Analysis/blob/main/VehicleIssueDiscrepancyAnalysis.py)
+* This is to match the records from the Vehicle system log to the timestamps of 'Issue 1' occurrences from the Machine performance log. <br/>
+* Python Script Link: [Vehicle Discrepancy Py](https://github.com/KeenanJWong/Vehicle-Discrepancy-Analysis/blob/main/VehicleIssueDiscrepancyAnalysis.py)
 
 
 
