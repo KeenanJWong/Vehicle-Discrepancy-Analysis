@@ -3,8 +3,8 @@
 #### Problem Statement ####
 The Vehicle System Log, which records all errors that the vehicle encounters, has been stated to inaccurately record 'Issue 1' as 'Issue 2'. <br/>
 Analysis to highlight the scale of inaccuracy is required to justify the business case in order for the IT team to allocate resources. 
-
-
+<br/>
+<br/>
 #### Methodology  ####
 Datasets from a sample period (1/1/2022 to 1/1/2023) were extracted for comparison. 
 * First Dataset: 
