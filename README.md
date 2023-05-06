@@ -9,7 +9,7 @@ Analysis to highlight the scale of inaccuracy is required to justify the busines
 Software used:
 * Python
 * Excel
-
+<br/>
 Datasets from a sample period (1/1/2022 to 1/1/2023) were extracted for comparison. 
 * First Dataset: 
   * Data from the Machine performance log
