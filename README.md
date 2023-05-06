@@ -14,6 +14,12 @@ Datasets from a sample period (1/1/2022 to 1/1/2023) were extracted for comparis
   * Data from the Vehicle System log
   * Data to show all the errors that have been recorded.
 
+Using Python, the timestamps from the second dataset were intersected with the timestamps from the first dataset.
+This is to match the records from the Vehicle system log to the timestamps of 'Issue 1' occurrences from the Machine performance log.
+Python script found in repository: 
+
+
+
 
 * Tools used: Python, Excel
 
