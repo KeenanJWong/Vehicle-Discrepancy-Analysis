@@ -1,7 +1,5 @@
 # Vehicle Discrepancy Analysis
 
-Repository for Vehicle Issue Discrepancy project <br />
-<br />
 
 * Tools used: Python, Excel
 
