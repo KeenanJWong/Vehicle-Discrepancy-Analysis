@@ -28,10 +28,11 @@ Analysis was done to see what proportion of records in the Vehicle system log we
 <br/>
 #### Analysis and Insights ####
 
-![Image] (https://github.com/KeenanJWong/Vehicle-Discrepancy-Analysis/blob/main/PieChart_ProportionOfSystemLoggedIssues.png)
+----ADD IMAGE HERE
 
-** From the chart generated using Python, it can be seen that 39% of 'Issue 1' occurences from the Machine performance log were recorded as 'Issue 2' in the Vehicle System log. 
-** Therefore, two problems are identified:
+From the chart generated using Python, it can be seen that 39% of 'Issue 1' occurences from the Machine performance log were recorded as 'Issue 2' in the Vehicle System log.  
+
+Therefore, two problems are identified:
 *** 1) The significance of 'Issue 1' and 'Issue 2' are reduced and inflated, respectively
 *** 2) Unnecessary downtime caused as Maintenance would be trying to solve for 'Issue 2' when 'Issue 1' is the actual problem
 
