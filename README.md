@@ -6,6 +6,10 @@ Analysis to highlight the scale of inaccuracy is required to justify the busines
 <br/>
 <br/>
 #### Methodology  ####
+Tools used:
+* Python
+* Excel
+
 Datasets from a sample period (1/1/2022 to 1/1/2023) were extracted for comparison. 
 * First Dataset: 
   * Data from the Machine performance log
